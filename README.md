@@ -8,7 +8,3 @@ the publicly available replication package of the base study:
 
 To respect attribution and ensure reviewers can verify that our inputs are byte-identical to the originals, we do not redistribute these 
 materials in this repository.
-
-## Reproducing the study
-
-- Our PlantUML transcriptions of the human-created diagrams are included in this repository under `data/diagrams_human_plantuml/`  
